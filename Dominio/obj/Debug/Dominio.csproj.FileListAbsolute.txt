@@ -1,0 +1,6 @@
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\bin\Debug\Dominio.dll
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\bin\Debug\Dominio.pdb
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\obj\Debug\Dominio.dll
+D:\xdant\OneDrive\Escritorio\Curso C# Nivel 2\TPFinalNivel2_Diaz\Dominio\obj\Debug\Dominio.pdb

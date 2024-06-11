@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentación", "Presentación\Presentación.csproj", "{E3975483-EB26-4D0B-8C17-A52B39AF47C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{79493FC8-A277-4B56-B093-38CD28DC4D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9CB4A51F-6F8D-4018-9436-3B7BF7A6CE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3975483-EB26-4D0B-8C17-A52B39AF47C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3975483-EB26-4D0B-8C17-A52B39AF47C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3975483-EB26-4D0B-8C17-A52B39AF47C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3975483-EB26-4D0B-8C17-A52B39AF47C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79493FC8-A277-4B56-B093-38CD28DC4D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79493FC8-A277-4B56-B093-38CD28DC4D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79493FC8-A277-4B56-B093-38CD28DC4D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79493FC8-A277-4B56-B093-38CD28DC4D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB4A51F-6F8D-4018-9436-3B7BF7A6CE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB4A51F-6F8D-4018-9436-3B7BF7A6CE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB4A51F-6F8D-4018-9436-3B7BF7A6CE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB4A51F-6F8D-4018-9436-3B7BF7A6CE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F372984A-FE31-4706-8044-E4063409AF6D}
+	EndGlobalSection
+EndGlobal
